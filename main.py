@@ -9,7 +9,7 @@ from appscript import app, mactypes
 from datetime import datetime
 
 
-API_KEY = "fywlZUl9fSDNalZ4QeEMoZfp5a81FoI0IHtbfyZX"
+API_KEY = "add your own api key"
 nasa = nasapy.Nasa(key=API_KEY)
 
 d = datetime.today().strftime('%Y-%m-%d')
