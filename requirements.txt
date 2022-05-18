@@ -1,0 +1,6 @@
+gTTS==2.2.4
+ipython==8.3.0
+nasapy==0.2.7
+pandas==1.4.2
+requests==2.27.1
+appscript~=1.2.0
